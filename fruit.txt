@@ -2,5 +2,6 @@ apple
 banana
 peach
 tomato
-strawberry
+melon
+orange
 mango
